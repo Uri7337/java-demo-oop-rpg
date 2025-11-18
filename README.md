@@ -16,3 +16,8 @@ Java - RPG hra – Jednoduchý bojový systém - záměr: nauka o OOP
         - Inventář
         - Úrovně
         - Životy
+
+
+### Odkazy
+- https://www.w3schools.com/java/java_classes.asp
+- https://www.w3schools.com/java/java_abstract.asp
